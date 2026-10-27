@@ -1,0 +1,26 @@
+RF Signal Strength Prediction - Metrics Report
+==================================================
+
+Model: linear_regression
+  MAE: 3.987389
+  MSE: 25.902143
+  RMSE: 5.089415
+  R2: 0.887082
+
+Model: decision_tree
+  MAE: 6.477078
+  MSE: 66.823732
+  RMSE: 8.174578
+  R2: 0.708689
+
+Model: random_forest
+  MAE: 4.780203
+  MSE: 36.481164
+  RMSE: 6.039964
+  R2: 0.840964
+
+Model: gradient_boosting
+  MAE: 3.864670
+  MSE: 24.150408
+  RMSE: 4.914306
+  R2: 0.894719
